@@ -39,6 +39,12 @@ main {
   width: 300px;
 }
 
+.left-box p {
+  font-size: 30px;
+  text-align: center;
+  line-height: 490px;
+}
+
 .right-box {
   background-color: #008000;
   display: flex;
